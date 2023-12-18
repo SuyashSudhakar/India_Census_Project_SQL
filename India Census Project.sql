@@ -1,4 +1,5 @@
 /*
+
 India Census Data Exploration and insight generation
 
 Skills used: Joins, Windows Functions, Aggregate Functions, Converting Data Types, Temp tables
